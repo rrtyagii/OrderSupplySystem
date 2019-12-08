@@ -1,0 +1,15 @@
+R,Seritage Growth Properties,Y1,1/26/2019,86,8/16/2019
+O,Blackrock Muni New York Intermediate Duration Fund Inc,Q7,9/13/2019,20
+R,International Paper Company,X8,9/8/2019,42,2/5/2019
+R,XPO Logistics, Inc.,O8,7/4/2019,18,4/22/2019
+R,Puxin Limited,N8,7/27/2019,56,9/11/2019
+O,Tsakos Energy Navigation Ltd,J3,11/27/2019,49
+R,Korea Fund, Inc. (The),X4,8/29/2019,88,2/24/2019
+O,Wells Fargo & Company,G2,1/29/2019,19
+R,Summit Hotel Properties, Inc.,R1,5/24/2019,39,7/1/2019
+O,Customers Bancorp, Inc,W6,9/25/2019,51
+R,AMN Healthcare Services Inc,F8,7/10/2019,86,3/13/2019
+R,Axis Capital Holdings Limited,G3,9/27/2019,0,2/4/2019
+R,Royce Micro-Cap Trust, Inc.,Q2,3/23/2019,87,10/11/2019
+R,CGI Group, Inc.,K8,4/9/2019,33,7/7/2019
+O,Hyatt Hotels Corporation,U6,8/17/2019,5
